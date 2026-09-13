@@ -62,13 +62,8 @@ Which product attributes are associated with customer satisfaction and dissatisf
 
 
 
-\## Project Structure
+## Project Structure
 
-
-
-\- `README.md` — Project overview and documentation
-
-\- `notebook/` — Jupyter Notebook containing the analysis
-
-\- `data/` — Dataset information
+- `README.md` — Project overview and documentation
+- `Untitled9.ipynb` — Jupyter Notebook containing the analysis
 
